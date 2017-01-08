@@ -1,3 +1,3 @@
 # hello-world
 
-test
+First test project on GitHub!
